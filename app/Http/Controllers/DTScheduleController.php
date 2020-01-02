@@ -4,7 +4,7 @@
  * @Author: C Yongky Pranowo
  * @Date:   2019-11-30 23:31:39
  * @Last Modified by:   C Yongky Pranowo
- * @Last Modified time: 2019-12-19 09:55:30
+ * @Last Modified time: 2020-01-02 14:37:14
  */
 
 namespace App\Http\Controllers;
@@ -21,7 +21,7 @@ class DTScheduleController extends Controller
      */
     public function index()
     {
-        $data['data'] = DTSchedule::select('train_name', 'class_name', 's.station_name AS station_departure','st.station_name AS station_arrived','departure_time','arrived_time')
+        $data['datas'] = DTSchedule::select('train_name', 'class_name', 's.station_name AS station_departure','st.station_name AS station_arrived','departure_time','arrived_time')
             ->leftJoin('mst_train AS t', 'dt_schedule.train_id', 't.id')
             ->leftJoin('mst_class AS c', 'dt_schedule.class_id', 'c.id')
             ->leftJoin('mst_station AS s', 'dt_schedule.station_departure_id', 's.id')
@@ -29,7 +29,7 @@ class DTScheduleController extends Controller
             ->limit('20')
             ->orderBy('t.id','DESC')
             ->get();
-        $data['totals'] = $data['data']->count();
+        $data['totals'] = $data['datas']->count();
         return response()->json($data, 200);
     }
 
