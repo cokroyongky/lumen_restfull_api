@@ -15,8 +15,6 @@ This lumen project for seminar content in UP45 about REST API. This project just
 <br><br>
 Make sure your project is connected to the database in .env file, and run <code>php artisan migrate</code>, check your DB now, train table will be create automatic. Then run <code>php artisan db:seed</code> to create record on your tables.
 <br>
-<br>
-<br>
 Run <code>php artisan server</code>, and cheers!&#127867;&#127867; , run http://127.0.0.1:8000 on your browser .
 <br>
 Btw, this project already have simple web, desktop and mobile (Android IOS) to use get method /schedule/ .
@@ -24,7 +22,6 @@ just run, and make easy to your project!
 
 To know route this RESTAPI, just run <code>php artisan route:list</code>  Enjoy ! &#127867;&#127867;
 
-<br>
 <br>
 Check your project, app\databases\seeds\DTTransactSeeder, we create 1000 transaction for dummy data 
 <br><br><br><br>
