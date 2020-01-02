@@ -34,4 +34,4 @@ Check your project, app\databases\seeds\DTTransactSeeder, we create 1000 transac
 <br><br><br><br>
 Best Regard.
 
-<a href="https://github.com/cokroyongky">Your Friend &#128150;</a>
+<a href="mailto:cokroyongkyp@gmail.com?Subject=#LumenRESTAPI" target="_top">Your Friend &#128150;</a>
