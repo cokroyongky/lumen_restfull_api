@@ -1,7 +1,8 @@
 # RESTful API WITH LUMEN
 This lumen project for seminar content in UP45 about REST API. This project just using sample data with faker and authentication with JWT. You can config this project with database seeder.
-
+![lumen-logo-API-framework](https://user-images.githubusercontent.com/24487280/71655121-0a3f7100-2d68-11ea-9660-d15ee80c7dfb.png)
 <hr><br>
+<b>This project using lumen version 6.0</b><br>
 <b>If you want to clone this project, do the step below :</b>
 <ol type="1">
     <li>Make sure you have installed <a href="https://getcomposer.org/">composer</a></li>
