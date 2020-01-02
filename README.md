@@ -3,12 +3,9 @@ This lumen project for seminar content in UP45 about REST API. This project just
 ![lumen-logo-API-framework](https://user-images.githubusercontent.com/24487280/71655121-0a3f7100-2d68-11ea-9660-d15ee80c7dfb.png)
 <hr><br><br>
 <h3>Sample Demo</h3>
-<h4>#Website</h4>
-<image src="https://user-images.githubusercontent.com/24487280/71656739-27c40900-2d6f-11ea-9138-d588af346b80.png">
-<h4>#Mobile(Android IOS)</h4>
-![image](https://user-images.githubusercontent.com/24487280/71656745-2f83ad80-2d6f-11ea-94b7-cb8260243fa9.png)
-<h4>#Desktop Windows</h4>
-![image](https://user-images.githubusercontent.com/24487280/71656787-5cd05b80-2d6f-11ea-870f-335620690f46.png)
+<a href="https://user-images.githubusercontent.com/24487280/71656739-27c40900-2d6f-11ea-9138-d588af346b80.png"><h4>#Website</h4></a>
+<a href="https://user-images.githubusercontent.com/24487280/71656745-2f83ad80-2d6f-11ea-94b7-cb8260243fa9.png"><h4>#Mobile(Android IOS)</h4></a>
+<a href="https://user-images.githubusercontent.com/24487280/71656787-5cd05b80-2d6f-11ea-870f-335620690f46.png"><h4>#Desktop Windows</h4></a>
 <br><br>
 <b>This project using lumen version 6.0.</b><br>
 Requirement on your environment:
@@ -34,6 +31,8 @@ Run <code>php artisan server</code>, and cheers!&#127867;&#127867; , run http://
 <br>
 Btw, this project already have simple web, desktop and mobile (Android IOS) to use get method /schedule/ .
 just run, and make easy to your project!
+<br>
+Thanks to <a href="https://github.com/heri99123">Hery</a> for create desktop apps &#128187;😍
 <br>
 To know route this RESTAPI, just run <code>php artisan route:list</code> , or <a href="https://github.com/cokroyongky/lumen_restful_api/blob/master/route_list.txt"><u>see this file</u></a> Enjoy ! &#127867;&#127867;
 
