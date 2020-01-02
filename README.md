@@ -27,7 +27,7 @@ Run <code>php artisan server</code>, and cheers!&#127867;&#127867; , run http://
 Btw, this project already have simple web, desktop and mobile (Android IOS) to use get method /schedule/ .
 just run, and make easy to your project!
 <br>
-To know route this RESTAPI, just run <code>php artisan route:list</code>  Enjoy ! &#127867;&#127867;
+To know route this RESTAPI, just run <code>php artisan route:list</code> , or <a href="https://github.com/cokroyongky/lumen_restful_api/blob/master/route_list.txt"><u>see this file</u></a> Enjoy ! &#127867;&#127867;
 
 <br>
 Check your project, app\databases\seeds\DTTransactSeeder, we create 1000 transaction for dummy data 
