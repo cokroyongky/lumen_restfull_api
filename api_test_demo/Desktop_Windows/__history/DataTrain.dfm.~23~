@@ -1,0 +1,86 @@
+object FormData: TFormData
+  Left = 0
+  Top = 0
+  Caption = 'Train Schedule'
+  ClientHeight = 549
+  ClientWidth = 1148
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Grid1: TStringGrid
+    AlignWithMargins = True
+    Left = 6
+    Top = 3
+    Width = 894
+    Height = 499
+    Margins.Left = 6
+    Margins.Right = 6
+    Margins.Bottom = 0
+    Align = alClient
+    TabOrder = 0
+    ExplicitWidth = 990
+    ExplicitHeight = 404
+  end
+  object Panel1: TPanel
+    AlignWithMargins = True
+    Left = 3
+    Top = 505
+    Width = 1142
+    Height = 41
+    Align = alBottom
+    BevelOuter = bvNone
+    TabOrder = 1
+    ExplicitWidth = 996
+    object btnView: TButton
+      AlignWithMargins = True
+      Left = 3
+      Top = 3
+      Width = 133
+      Height = 35
+      Align = alLeft
+      Caption = 'View Data Train'
+      TabOrder = 0
+      OnClick = btnViewClick
+    end
+    object Button1: TButton
+      Left = 176
+      Top = 8
+      Width = 75
+      Height = 25
+      Caption = 'Button1'
+      TabOrder = 1
+      OnClick = Button1Click
+    end
+  end
+  object Memo1: TMemo
+    AlignWithMargins = True
+    Left = 912
+    Top = 3
+    Width = 230
+    Height = 496
+    Margins.Left = 6
+    Margins.Right = 6
+    Align = alRight
+    Lines.Strings = (
+      'Memo1')
+    ScrollBars = ssVertical
+    TabOrder = 2
+  end
+  object nethttp: TNetHTTPClient
+    Asynchronous = False
+    ConnectionTimeout = 60000
+    ResponseTimeout = 60000
+    HandleRedirects = True
+    AllowCookies = True
+    UserAgent = 'Embarcadero URI Client/1.0'
+    Left = 552
+    Top = 208
+  end
+end

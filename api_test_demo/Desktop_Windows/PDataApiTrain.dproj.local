@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/06/13 23:00:00.000.019,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/13 23:00:00.000.058,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/14 10:00:00.000.842,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/24 13:00:00.000.608,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/03 16:00:00.000.351,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/22 16:00:00.000.507,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/22 16:00:00.000.781,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/24 10:00:00.000.342,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/24 10:00:00.000.593,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/16 15:00:00.000.728,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/16 15:00:00.000.079,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/16 15:00:00.000.684,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/16 16:00:00.000.967,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/16 16:00:00.000.541,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/27 10:00:00.000.241,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/30 08:00:00.000.984,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/23 08:00:00.000.751,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/08 12:00:00.000.529,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/24 08:00:00.000.054,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/26 14:00:00.000.258,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/23 11:00:00.000.488,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/23 14:00:00.000.738,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/24 17:00:00.000.571,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/24 17:00:00.000.285,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/26 12:00:00.000.023,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/04 13:00:00.000.709,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/04 13:00:00.000.758,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/04 13:00:00.000.596,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/04 14:00:00.000.607,=D:\Documents\Embarcadero\Studio\Projects\SplitItemDetail1.pas</Transaction>
+    <Transaction>2018/08/04 14:00:00.000.101,=D:\Documents\Embarcadero\Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2018/10/02 16:00:00.000.972,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/03 13:00:00.000.236,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/06 13:00:00.000.016,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/09 16:00:00.000.649,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/27 17:00:00.000.890,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/01 08:00:00.000.209,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/01 10:00:00.000.237,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/07 14:00:00.000.288,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/18 10:32:21.000.563,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/20 10:42:05.000.600,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/10 16:12:09.000.757,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/10 16:33:03.000.140,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 14:00:07.000.679,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 14:20:11.000.507,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/04 15:57:22.000.034,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/19 10:08:13.000.659,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/19 10:12:54.000.191,D:\CODE DELPHI RX\20191219 MTI Seminar\DataTrain.dfm=D:\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/12/19 10:12:54.000.191,D:\CODE DELPHI RX\20191219 MTI Seminar\DataTrain.pas=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/19 10:13:07.000.540,D:\CODE DELPHI RX\20191219 MTI Seminar\PDataApiTrain.dproj=D:\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="34b1104b"/>
+	</ActiveMobileDevice>
+</BorlandProject>
