@@ -42,6 +42,6 @@ To know route this RESTAPI, just run <code>php artisan route:list</code> , or <a
 <br>
 Check your project, app\databases\seeds\DTTransactSeeder, we create 1000 transaction for dummy data 
 <br><br><br><br>
-Best Regard.
-
+<b>Best Regard.</b>
+<br>
 <a href="mailto:cokroyongkyp@gmail.com?Subject=Ask%20About%20LumenRESTAPI" target="_top">Your Friend </a>&#128150;
