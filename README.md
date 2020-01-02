@@ -1,7 +1,15 @@
 # RESTful API WITH LUMEN
 This lumen project for seminar content in UP45 about REST API. This project just using sample data with faker and authentication with JWT. You can config this project with database seeder.
-
+![lumen-logo-API-framework](https://user-images.githubusercontent.com/24487280/71655121-0a3f7100-2d68-11ea-9660-d15ee80c7dfb.png)
 <hr><br>
+<b>This project using lumen version 6.0.</b><br>
+Requirement on your environment:
+<ul>
+    <li>PHP >= 7.2</li>
+    <li>OpenSSL PHP Extension</li>
+    <li>PDO PHP Extension</li>
+    <li>Mbstring PHP Extension</li>
+</ul><br>
 <b>If you want to clone this project, do the step below :</b>
 <ol type="1">
     <li>Make sure you have installed <a href="https://getcomposer.org/">composer</a></li>
@@ -12,17 +20,18 @@ This lumen project for seminar content in UP45 about REST API. This project just
     <li>Create new database in your local with name <code>train_db</code>, or you can change the name if you want, just going to <b>.env</b> file </li>
 </ol>
 <br>
-<br><br>
 Make sure your project is connected to the database in .env file, and run <code>php artisan migrate</code>, check your DB now, train table will be create automatic. Then run <code>php artisan db:seed</code> to create record on your tables.
 <br>
-<br>
-<br>
 Run <code>php artisan server</code>, and cheers!&#127867;&#127867; , run http://127.0.0.1:8000 on your browser .
-
 <br>
+Btw, this project already have simple web, desktop and mobile (Android IOS) to use get method /schedule/ .
+just run, and make easy to your project!
+<br>
+To know route this RESTAPI, just run <code>php artisan route:list</code>  Enjoy ! &#127867;&#127867;
+
 <br>
 Check your project, app\databases\seeds\DTTransactSeeder, we create 1000 transaction for dummy data 
 <br><br><br><br>
 Best Regard.
 
-<a href="https://github.com/cokroyongky">Your Friend &#128150;</a>
+<a href="mailto:cokroyongkyp@gmail.com?Subject=Ask%20About%20LumenRESTAPI" target="_top">Your Friend </a>&#128150;
