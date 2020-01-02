@@ -18,6 +18,11 @@ Make sure your project is connected to the database in .env file, and run <code>
 <br>
 <br>
 Run <code>php artisan server</code>, and cheers!&#127867;&#127867; , run http://127.0.0.1:8000 on your browser .
+<br>
+Btw, this project already have simple web, desktop and mobile (Android IOS) to use get method /schedule/ .
+just run, and make easy to your project!
+
+To know route this RESTAPI, just run <code>php artisan route:list</code>  Enjoy ! &#127867;&#127867;
 
 <br>
 <br>
