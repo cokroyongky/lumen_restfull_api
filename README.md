@@ -3,6 +3,13 @@ This lumen project for seminar content in UP45 about REST API. This project just
 ![lumen-logo-API-framework](https://user-images.githubusercontent.com/24487280/71655121-0a3f7100-2d68-11ea-9660-d15ee80c7dfb.png)
 <hr><br>
 <b>This project using lumen version 6.0.</b><br>
+Requirement :
+<ul>
+    <li>PHP >= 7.2</li>
+    <li>OpenSSL PHP Extension</li>
+    <li>PDO PHP Extension</li>
+    <li>Mbstring PHP Extension</li>
+</ul>
 <b>If you want to clone this project, do the step below :</b>
 <ol type="1">
     <li>Make sure you have installed <a href="https://getcomposer.org/">composer</a></li>
