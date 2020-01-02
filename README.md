@@ -1,2 +1,28 @@
-# lumen_restfull_api
-T
+# RESTful API WITH LUMEN
+This lumen project for seminar content in UP45 about REST API. This project just using sample data with faker and authentication with JWT. You can config this project with database seeder.
+
+<hr><br>
+<b>If you want to clone this project, do the step below :</b>
+<ol type="1">
+    <li>Make sure you have installed <a href="https://getcomposer.org/">composer</a></li>
+    <li>Clone this project with <br><a href="https://git-scm.com/">git</a>, run the command 
+    <code>git clone https://github.com/cokroyongky/lumen_restfull_api.git</code></li>
+    <li>Run the command <code>composer install</code></li>
+    <li>Rename <b>.env.example</b> file to <b>.env</b></li>
+    <li>Create new database in your local with name <code>train_db</code>, or you can change the name if you want, just going to <b>.env</b> file </li>
+</ol>
+<br>
+<br><br>
+Make sure your project is connected to the database in .env file, and run <code>php artisan migrate</code>, check your DB now, train table will be create automatic. Then run <code>php artisan db:seed</code> to create record on your tables.
+<br>
+<br>
+<br>
+Run <code>php artisan server</code>, and cheers!&#127867;&#127867; , run http://127.0.0.1:8000 on your browser .
+
+<br>
+<br>
+Check your project, app\databases\seeds\DTTransactSeeder, we create 1000 transaction for dummy data 
+<br><br><br><br>
+Best Regard.
+
+<a href="https://github.com/cokroyongky">Your Friend &#128150;</a>

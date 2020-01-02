@@ -1,0 +1,6 @@
+/vendor
+/app/http/Controllers/ExampleController.php
+/.idea
+Homestead.json
+Homestead.yaml
+.env
