@@ -1,0 +1,32 @@
++--------+----------------+------------+--------------------------------------------+--------------+------------+
+| Verb   | Path           | NamedRoute | Controller                                 | Action       | Middleware |
++--------+----------------+------------+--------------------------------------------+--------------+------------+
+| POST   | /auth/login    |            | App\Http\Controllers\AuthController        | authenticate |            |
+| GET    | /user          |            | App\Http\Controllers\UserController        | index        | jwt.auth   |
+| GET    | /user/{id}     |            | App\Http\Controllers\UserController        | show         | jwt.auth   |
+| POST   | /user          |            | App\Http\Controllers\UserController        | store        | jwt.auth   |
+| PUT    | /user/{id}     |            | App\Http\Controllers\UserController        | update       | jwt.auth   |
+| DELETE | /user/{id}     |            | App\Http\Controllers\UserController        | destroy      | jwt.auth   |
+| GET    | /train/{id}    |            | App\Http\Controllers\TrainController       | show         | jwt.auth   |
+| POST   | /train         |            | App\Http\Controllers\TrainController       | store        | jwt.auth   |
+| PUT    | /train/{id}    |            | App\Http\Controllers\TrainController       | update       | jwt.auth   |
+| DELETE | /train/{id}    |            | App\Http\Controllers\TrainController       | destroy      | jwt.auth   |
+| GET    | /class/{id}    |            | App\Http\Controllers\ClassController       | show         | jwt.auth   |
+| POST   | /class         |            | App\Http\Controllers\ClassController       | store        | jwt.auth   |
+| PUT    | /class/{id}    |            | App\Http\Controllers\ClassController       | update       | jwt.auth   |
+| DELETE | /class/{id}    |            | App\Http\Controllers\ClassController       | destroy      | jwt.auth   |
+| GET    | /station/{id}  |            | App\Http\Controllers\StationController     | show         | jwt.auth   |
+| POST   | /station       |            | App\Http\Controllers\StationController     | store        | jwt.auth   |
+| PUT    | /station/{id}  |            | App\Http\Controllers\StationController     | update       | jwt.auth   |
+| DELETE | /station/{id}  |            | App\Http\Controllers\StationController     | destroy      | jwt.auth   |
+| GET    | /schedule/{id} |            | App\Http\Controllers\DTScheduleController  | show         | jwt.auth   |
+| POST   | /schedule      |            | App\Http\Controllers\DTScheduleController  | store        | jwt.auth   |
+| PUT    | /schedule/{id} |            | App\Http\Controllers\DTScheduleController  | update       | jwt.auth   |
+| DELETE | /schedule/{id} |            | App\Http\Controllers\DTScheduleController  | destroy      | jwt.auth   |
+| GET    | /dt_transaksi  |            | App\Http\Controllers\DTTransaksiController | index        | jwt.auth   |
+| GET    | /              |            | None                                       | Closure      |            |
+| GET    | /train         |            | App\Http\Controllers\TrainController       | index        |            |
+| GET    | /class         |            | App\Http\Controllers\ClassController       | index        |            |
+| GET    | /schedule      |            | App\Http\Controllers\DTScheduleController  | index        |            |
+| GET    | /station       |            | App\Http\Controllers\StationController     | index        |            |
++--------+----------------+------------+--------------------------------------------+--------------+------------+
